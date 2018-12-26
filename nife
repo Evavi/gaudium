@@ -33,14 +33,14 @@
 				</div>
 						<div class="functionbar">
 							<br />
-							<a href="" class="functionItem dom">dom</a>
-							<a href="" class="functionItem aux">aux</a>
-							<a href="" class="functionItem rel">rel</a>
-							<a href="" class="functionItem inf">inf</a>
-							<a href="" class="functionItem opp">opp</a>
-							<a href="" class="functionItem cri">cri</a>
-							<a href="" class="functionItem tri">tri</a>
-							<a href="" class="functionItem dem">dem</a>
+							<a href="ni" class="functionItem dom">Ni</a>
+							<a href="fe" class="functionItem aux">Fe</a>
+							<a href="ti" class="functionItem rel">Ti</a>
+							<a href="se" class="functionItem inf">Se</a>
+							<a href="ne" class="functionItem opp">Ne</a>
+							<a href="fi" class="functionItem cri">Fi</a>
+							<a href="te" class="functionItem tri">Te</a>
+							<a href="si" class="functionItem dem">Si</a>
 						</div>
 						<div class="description">
 						<h2> NiFe </h2>
