@@ -4,7 +4,7 @@
 		<link rel="stylesheet" href="style.css">
 		<title>Gaudium</title>	
 	</head>
-	<body class="color">
+	<body class="red">
 		<div class="article">
 			<header>
 				<a href="index.html"><h1>GAUDIUM</h1></a>
