@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>	
+	</head>
+	<body class="color">
+		<div class="article">
+			<header>
+				<a href="index.html"><h1>GAUDIUM</h1></a>
+				<nav>
+					<table>
+						<td>
+							<a href="index.html">Test</a>
+						</td>
+						<td>
+							<a href="types">Types</a>
+						</td>
+						<td>
+							<a href="functions">Functions</a>
+						</td>
+						<td>
+							<a href="gaudium">Gaudium</a>
+						</td>
+						<td>
+							<a href="about">About</a>
+						</td>
+					</table>
+				</nav>
+			</header>
+			<div class="content">
+				<div>
+				</div>
+						<div class="functionbar">
+							<br />
+							<a href="" class="functionItem dom">dom</a>
+							<a href="" class="functionItem aux">aux</a>
+							<a href="" class="functionItem rel">rel</a>
+							<a href="" class="functionItem inf">inf</a>
+							<a href="" class="functionItem opp">opp</a>
+							<a href="" class="functionItem cri">cri</a>
+							<a href="" class="functionItem tri">tri</a>
+							<a href="" class="functionItem dem">dem</a>
+						</div>
+						<div class="description">
+						<h2> FiSe </h2>
+						<p>FiSes, or by all their functions, FiSeNiTes, are some of the most chaotic types.
+					They have very strong in-built values and morals that they operate by. Additionally, 
+					FiSes are great with their hands and handle interacting with the external world beautifully,
+					which often makes them great artists and explorers. When needed, these interesting enthusiasts
+					may also be able to read between the lines and take things into their own controlling hands, 
+					as they have the ability to see the big picture, not having a tendency to focus on details, as most
+					other free spirits in the emotional-chaotic faction. 
+					</p>
+						</div>
+					<br /><h3 class="center"> Anthem </h3><br />
+					<iframe class="anthem" width="100%" height="199" src="https://song.link/embed?url=https://song.link/i/477459826" frameborder="0" allowfullscreen="true"></iframe>
+					</div>
+				</div>
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

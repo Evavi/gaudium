@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>
+		
+		<style>
+			body {
+			background-color: #ab9bb1;
+			}
+		</style>
+		
+	</head>
+	<body class="repeatbody">
+		<div class="article">
+			
+		
+			<header>
+				<a href="index.html"><h1>GAUDIUM</h1></a>
+				<nav>
+					<table>
+						<td>
+							<a href="index.html">Test</a>
+						</td>
+						<td>
+							<a href="types">Types</a>
+						</td>
+						<td>
+							<a href="functions">Functions</a>
+						</td>
+						<td>
+							<a href="gaudium">Gaudium</a>
+						</td>
+						<td>
+							<a href="about">About</a>
+						</td>
+					</table>
+				</nav>
+			</header>
+			<div class="center">
+			<br />
+				<a href="Ne" class="BigfunctionItem purple">Se</a>
+				<a href="Fi" class="BigfunctionItem purple">Fe</a>
+				<a href="Si" class="BigfunctionItem purple">Ni</a>
+				<a href="Fi" class="BigfunctionItem purple">Ti</a>
+			</div><br /><br />
+			<p class="description">
+			The PURPLE animal breed is cats.<br /><br />
+			
+			
+			</p>
+			<img class="animal" src="https://img00.deviantart.net/f0b2/i/2013/233/a/c/eurasian_lynx_by_mararda-d6j53pf.jpg">
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

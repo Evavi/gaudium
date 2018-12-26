@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>
+	</head>
+	<body class="yellow">
+		<div class="article">
+			<header>
+				<a href="index.html"><h1>GAUDIUM</h1></a>
+				<nav>
+					<table>
+						<td>
+							<a href="index.html">Test</a>
+						</td>
+						<td>
+							<a href="types">Types</a>
+						</td>
+						<td>
+							<a href="functions">Functions</a>
+						</td>
+						<td>
+							<a href="gaudium">Gaudium</a>
+						</td>
+						<td>
+							<a href="about">About</a>
+						</td>
+					</table>
+				</nav>
+			</header>
+			<div class="content">
+				<div>
+				</div>
+						<div class="functionbar">
+							<br />
+							<a href="ne" class="functionItem dom">Ne</a>
+							<a href="fi" class="functionItem aux">Fi</a>
+							<a href="te" class="functionItem rel">Te</a>
+							<a href="si" class="functionItem inf">Si</a>
+							<a href="ni" class="functionItem opp">Ni</a>
+							<a href="fe" class="functionItem cri">Fe</a>
+							<a href="ti" class="functionItem tri">Ti</a>
+							<a href="se" class="functionItem dem">Se</a>
+						</div>
+						<div class="description">
+						<h2> NeFi </h2>
+						<p>NeFis, or by all their functions, NeFiTeSis, are flexible free spirits with a hint of leader.
+						Their functions work together to create a fantasy-rich, future-oriented, 
+						private feeler, with a tendency to become controlling when stressed.
+						These creative idea machines are, often secretly, very nostalgic and
+						love thinking and talking about the past. </p>
+						</div>
+					<br /><h3 class="center"> Anthem </h3><br />
+					<iframe class="anthem" width="100%" height="199" src="https://song.link/embed?url=https://song.link/i/1254579678" frameborder="0" allowfullscreen="true"></iframe>
+					</div>
+				</div>
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

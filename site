@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>	
+	</head>
+	<body class="color">
+		<div class="article">
+			<header>
+				<a href="index.html"><h1>GAUDIUM</h1></a>
+				<nav>
+					<table>
+						<td>
+							<a href="index.html">Test</a>
+						</td>
+						<td>
+							<a href="types">Types</a>
+						</td>
+						<td>
+							<a href="functions">Functions</a>
+						</td>
+						<td>
+							<a href="gaudium">Gaudium</a>
+						</td>
+						<td>
+							<a href="about">About</a>
+						</td>
+					</table>
+				</nav>
+			</header>
+			<div class="content">
+				<div>
+				</div>
+						<div class="functionbar">
+							<br />
+							<a href="" class="functionItem dom">dom</a>
+							<a href="" class="functionItem aux">aux</a>
+							<a href="" class="functionItem rel">rel</a>
+							<a href="" class="functionItem inf">inf</a>
+							<a href="" class="functionItem opp">opp</a>
+							<a href="" class="functionItem cri">cri</a>
+							<a href="" class="functionItem tri">tri</a>
+							<a href="" class="functionItem dem">dem</a>
+						</div>
+						<div class="description">
+						<h2> TyPe </h2>
+						<p>
+						
+						Description
+						
+						</p>
+						</div>
+					<br /><h3 class="center"> Anthem </h3><br />
+					<iframe class="anthem" width="100%" height="199" src="link" frameborder="0" allowfullscreen="true"></iframe>
+					</div>
+				</div>
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

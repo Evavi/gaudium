@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>
+		
+		<style>
+		
+		body {
+			background-image: url("bgt.jpg");
+			}
+			
+		img {
+			border: none;
+			width: 10%;
+			padding: 10px;
+		}
+		
+		</style>
+	</head>
+	<body class="repeatbody">
+		<div class="article">
+			
+		
+		<header>
+			<a href="index.html"><h1>GAUDIUM</h1></a>
+			<nav>				
+				<table>
+					<td>
+						<a href="index.html">Test</a>
+					</td>
+					<td>
+						<a href="types">Types</a>
+					</td>
+					<td>
+						<a href="functions">Functions</a>
+					</td>
+					<td>
+						<a href="gaudium">Gaudium</a>
+					</td>
+					<td>
+						<a href="about">About</a>
+					</td>
+				</table>
+			</nav>
+		</header>
+		<div class="description" class="center">
+			<a class="typebutton yellow" href="NeTe">Yellow</a>
+			<a class="typebutton green" href="NeFe">Green</a>
+			<a class="typebutton purple" href="SeFe">Purple</a>
+			<a class="typebutton red" href="SeTe">Red</a>
+			<p><br />The four main categories include yellow, green, purple and red. The subtypes in these
+			four groups all share the same cognitive functions.<br /><br /> A group of personalities is by no means
+			similar to an untrained eye, unless of course the functions are in the same order. The opposite, actually. People of 
+			the same group can have their functions in entirely the opposite order as another member of the same group. Still, the similarity
+			between these group members is uncanny once you get into it. <br /><br />The best way to describe the connection is the concept of,
+			for example, similar souls, or the hardcoded base code for an always developing and learning robot. <br /><br />People work in a similar way:
+			we're hardwired to prefer specific cognitive functions over others, and some functions are in a way, our "favourite functions" to use.
+			These are our dominant functions. The types are usually referred to as their two dominant functions in their preferred order.<br /><br />
+			Go on, click on the colours to explore the different groups of personalities there are!</p>
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

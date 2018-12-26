@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>
+		
+		<style>
+		
+		body {
+			background-image: url("bgt.jpg");
+			}
+			
+		img {
+			border: none;
+			width: 10%;
+			padding: 10px;
+		}
+		
+		</style>
+	</head>
+	<body class="repeatbody">
+		<div class="article">
+			
+		
+		<header>
+			<a href="index.html"><h1>GAUDIUM</h1></a>
+			<nav>				
+				<table>
+					<td>
+						<a href="index.html">Test</a>
+					</td>
+					<td>
+						<a href="types">Types</a>
+					</td>
+					<td>
+						<a href="functions">Functions</a>
+					</td>
+					<td>
+						<a href="gaudium">Gaudium</a>
+					</td>
+					<td>
+						<a href="about">About</a>
+					</td>
+				</table>
+			</nav>
+		</header>
+		<div class="description" class="center">
+			<a class="typebutton grey" href="ne">Ne</a>
+			<a class="typebutton grey" href="te">Te</a>
+			<a class="typebutton grey" href="fe">Fe</a>
+			<a class="typebutton grey" href="se">Se</a>
+			<a class="typebutton white"  href="fi">Fi</a>
+			<a class="typebutton white" href="si">Si</a>
+			<a class="typebutton white" href="ni">Ni</a>
+			<a class="typebutton white" href="ti">Ti</a>
+			<p><br />Go on, click on the functions to explore the way our minds work!</p>
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

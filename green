@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>
+		
+		<style>
+			body {
+			background-color: #98b19c;
+			}
+		</style>
+		
+	</head>
+	<body class="repeatbody">
+		<div class="article">
+			
+		
+			<header>
+				<a href="index.html"><h1>GAUDIUM</h1></a>
+				<nav>
+					<table>
+						<td>
+							<a href="index.html">Test</a>
+						</td>
+						<td>
+							<a href="types">Types</a>
+						</td>
+						<td>
+							<a href="functions">Functions</a>
+						</td>
+						<td>
+							<a href="gaudium">Gaudium</a>
+						</td>
+						<td>
+							<a href="about">About</a>
+						</td>
+					</table>
+				</nav>
+			</header>
+			<div class="center">
+			<br />
+				<a href="Ne" class="BigfunctionItem green">Ne</a>
+				<a href="Fe" class="BigfunctionItem green">Fe</a>
+				<a href="Si" class="BigfunctionItem green">Si</a>
+				<a href="Ti" class="BigfunctionItem green">Ti</a>
+			</div><br /><br />
+			<p class="description">
+			The GREEN animal breed is bears.<br /><br />
+			
+			
+			</p>
+			<img class="animal" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Polar_Bear_ANWR_1.jpg">
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>

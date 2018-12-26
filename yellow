@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Gaudium</title>
+		
+		<style>
+			body {
+			background-color: #efd48f;
+			}
+		</style>
+		
+	</head>
+	<body class="repeatbody">
+		<div class="article">
+			
+		
+			<header>
+				<a href="index.html"><h1>GAUDIUM</h1></a>
+				<nav>
+					<table>
+						<td>
+							<a href="index.html">Test</a>
+						</td>
+						<td>
+							<a href="types">Types</a>
+						</td>
+						<td>
+							<a href="functions">Functions</a>
+						</td>
+						<td>
+							<a href="gaudium">Gaudium</a>
+						</td>
+						<td>
+							<a href="about">About</a>
+						</td>
+					</table>
+				</nav>
+			</header>
+			<div class="center">
+			<br />
+				<a href="Ne" class="BigfunctionItem yellow">Ne</a>
+				<a href="Te" class="BigfunctionItem yellow">Te</a>
+				<a href="Si" class="BigfunctionItem yellow">Si</a>
+				<a href="Fi" class="BigfunctionItem yellow">Fi</a>
+			</div><br /><br />
+			<p class="description">
+			The YELLOW animal breed is dogs.<br /><br />
+			The deep and interesting minds of these individuals are often overlooked. 
+			They're private and have a very strong set of values they navigate through life
+			by, and even though these values are often made very clear, yellows are difficult
+			to get to know beyond the surface. <br />Once they're is committed, however, they are
+			some of the most loyal people.
+			</p>
+			<img class="animal" src="https://media.defense.gov/2016/Nov/15/2001668149/780/780/0/160311-F-VY538-006.JPG">
+		</div>
+		
+		<footer>
+			<p>Hi! I'm Eva (: If you're interested in helping out with my project please
+			let me know! eva.lebihan@gmail.com<br />
+			All credit for the Jungian Cognitive Functions Theory to Dr Carl Jung. </p>
+		</footer>
+	</body>
+</html>
